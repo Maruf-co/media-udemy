@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Wesley Stark",
+      "id": 5
+    },
+    {
+      "name": "Jimmy Rice",
+      "id": 6
+    },
+    {
+      "name": "Cristina Lesch",
+      "id": 8
+    }
+  ],
+  "albums": [
+    {
+      "userId": 6,
+      "title": "Intelligent Plastic Shoes",
+      "id": 49
+    },
+    {
+      "userId": 8,
+      "title": "Elegant Plastic Car",
+      "id": 50
+    },
+    {
+      "userId": 8,
+      "title": "Rustic Cotton Pants",
+      "id": 51
+    },
+    {
+      "userId": 6,
+      "title": "Modern Fresh Soap",
+      "id": 52
+    },
+    {
+      "userId": 1,
+      "title": "Generic Concrete Salad",
+      "id": 53
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Cotton Pizza",
+      "id": 57
+    },
+    {
+      "userId": 5,
+      "title": "Fantastic Plastic Cheese",
+      "id": 58
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Granite Computer",
+      "id": 59
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 53,
+      "url": "https://loremflickr.com/150/150/abstract?lock=35763",
+      "id": 1
+    },
+    {
+      "albumId": 53,
+      "url": "https://loremflickr.com/150/150/abstract?lock=17970",
+      "id": 2
+    },
+    {
+      "albumId": 53,
+      "url": "https://loremflickr.com/150/150/abstract?lock=59255",
+      "id": 5
+    },
+    {
+      "albumId": 53,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72636",
+      "id": 11
+    },
+    {
+      "albumId": 53,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80960",
+      "id": 12
+    },
+    {
+      "albumId": 53,
+      "url": "https://loremflickr.com/150/150/abstract?lock=33234",
+      "id": 13
+    },
+    {
+      "albumId": 53,
+      "url": "https://loremflickr.com/150/150/abstract?lock=91730",
+      "id": 14
+    },
+    {
+      "albumId": 58,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13510",
+      "id": 16
+    },
+    {
+      "albumId": 58,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46944",
+      "id": 17
+    },
+    {
+      "albumId": 58,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78020",
+      "id": 18
+    },
+    {
+      "albumId": 58,
+      "url": "https://loremflickr.com/150/150/abstract?lock=23003",
+      "id": 19
+    }
+  ]
+}
